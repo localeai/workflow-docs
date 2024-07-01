@@ -1,8 +1,8 @@
 // https://github.com/nuxt-themes/docus/blob/main/nuxt.schema.ts
 export default defineAppConfig({
   docus: {
-    title: 'Locale Docs',
-    description: 'The best place to start your documentation.',
+    title: 'Locale Workflows',
+    description: 'Learn about workflow in Locale to automate your tasks and procecess with AI.',
     image: 'https://docs.locale.ai/cover.png',
     socials: {
       twitter: 'localeai',
