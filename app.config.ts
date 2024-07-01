@@ -5,13 +5,8 @@ export default defineAppConfig({
     description: 'The best place to start your documentation.',
     image: 'https://docs.locale.ai/cover.png',
     socials: {
-      twitter: 'nuxt_js',
-      github: 'nuxt-themes/docus',
-      nuxt: {
-        label: 'Nuxt',
-        icon: 'simple-icons:nuxtdotjs',
-        href: 'https://nuxt.com'
-      }
+      twitter: 'localeai',
+      github: 'localeai/docs',
     },
     github: {
       dir: '.starters/default/content',
